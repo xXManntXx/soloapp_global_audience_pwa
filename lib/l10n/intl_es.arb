@@ -1,0 +1,15 @@
+{
+  "mainTitle": "Aplicación de audiencia global.",
+  "drawerHeader": "Elige tu idioma.",
+  "section1" : "Paisajes",
+  "section2" : "Viviendas",
+  "section3" : "Actividades",
+  "titre1": "Glaciar",
+  "titre2": "Bosque",
+  "titre3": "Montaña",
+  "titre4": "llanuras",
+  "description1": "Un magnífico glaciar en el corazón de los Alpes",
+  "description2": "Un bosque encantador con mil misterios.",
+  "description3": "Una meseta rodeada de montañas cubiertas de nieve.",
+  "description4": "Un árbol solitario en medio de la llanura."
+}

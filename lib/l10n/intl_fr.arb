@@ -1,0 +1,15 @@
+{
+  "mainTitle": "Application d'audience globale.",
+  "drawerHeader": "Choisissez votre langue.",
+  "section1" : "Paysage",
+  "section2" : "Habitations",
+  "section3" : "Activités",
+  "titre1": "Glacier",
+  "titre2": "Forêt",
+  "titre3": "Montagne",
+  "titre4": "Plaines",
+  "description1": "Un magnifique glacier au coeur des Alpes",
+  "description2": "Une forêt enchanteresse aux milles mystères.",
+  "description3": "Un plateau entouré de montagnes enneigées.",
+  "description4": "Un arbre solitaire au milieu des plaines."
+}

@@ -1,0 +1,55 @@
+{
+  "mainTitle": "Global audience app",
+  "@mainTitle": {
+    "description": "Name of the app"
+  },
+  "drawerHeader": "Pick your language.",
+  "@drawerHeader": {
+    "description": "Invitation to choose language."
+  },
+  "section1": "Countryside",
+  "@section1": {
+    "description": "First category"
+  },
+  "section2": "Dwelling",
+  "@section2": {
+    "description": "Second category"
+  },
+  "section3": "Activities",
+  "@section3": {
+    "description": "Third category"
+  },
+  "titre1": "Glacier",
+  "@titre1": {
+    "description": "First panel title"
+  },
+  "titre2": "Forest",
+  "@titre2": {
+    "description": "Second panel title"
+  },
+  "titre3": "Mountain",
+  "@titre3": {
+    "description": "Third panel title"
+  },
+  "titre4": "Lowland",
+  "@titre4": {
+    "description": "Fourth panel title"
+  },
+  "description1": "A magnificent glacier in the heart of the Alps",
+  "@description1": {
+    "description": "First panel description"
+  },
+  "description2": "An enchanting forest with a thousand mysteries.",
+  "@description2": {
+    "description": "Second panel description"
+  },
+  "description3": "A plateau surrounded by snow-capped mountains.",
+  "@description3": {
+    "description": "Third panel description"
+  },
+  "description4": "A solitary tree in the middle of the plains.",
+  "@description4": {
+    "description": "Fourth panel description"
+  }
+
+}
